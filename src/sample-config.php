@@ -33,9 +33,11 @@ $cardSets = [
     // Canadian Cash format
     ['1', '2', '5', '10', '20', '50', '100'],
     // Standard fibonacci with shrug
-   ['1', '2', '3', '5', '8', '13', '&#F937;']
+   ['1', '2', '3', '5', '8', '13', '&#F937;'],
     //Salesforce Estimates 
-    ['0.5','1','3','5','8']
+    ['0.5','1','3','5','8'],
+    // from 1 to 20
+    ['1', '2', '3', '5', '8', '13', '20']
 ];
 
 // Src tree for documentation linking from page
